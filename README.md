@@ -1,4 +1,4 @@
-<h1> Welcome to my Github</h1>
+<h1> Welcome </h1>
 
 - 👋 Hi, I’m Simão
 - 👀 I’m interested in :
