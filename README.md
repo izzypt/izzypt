@@ -39,6 +39,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzypt&show_icons=true&theme=radical" />
+
 
 <!---
 izzypt/izzypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
