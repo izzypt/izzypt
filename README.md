@@ -51,7 +51,7 @@
  <p>✨ You can check below some of my public repos.✨</p>
 </div>
 <div align="center">
-  <p>📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</p>
+  <p>📫 You can contact me at smmbonvalot@gmail.com</p>
 </div>
 
 <!---
