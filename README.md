@@ -18,11 +18,11 @@
 <div align="center">
   <ul>
     <li>👀 Mostly experiencie with :</li>
-    <li>- JavaScript (Vue and React frameworks)</li> 
-  - Python (Django)
-  -  NodeJS 
-  -  CSS
-  -  HTML...!
+    <li> JavaScript (Vue and React frameworks)</li> 
+  <li>Python (Django)</li> 
+  <li>NodeJS </li> 
+  <li>CSS</li> 
+  <li>HTML...!</li> 
 - ✨ You can check below some of my public repos.✨
 - 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com
   </ul>
