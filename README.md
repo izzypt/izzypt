@@ -50,7 +50,6 @@
 <div align="center">
  <p>✨ You can check below some of my public repos.✨</p>
 </div>
-<br>
 <div align="center">
   <p>📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</p>
 </div>
