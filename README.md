@@ -16,7 +16,7 @@
 </div>
 <br>
 <div align="center">
-  <ul>
+  <ul style="list-style: none;">
     <li>👀 Mostly experiencie with :</li>
     <li> JavaScript (Vue and React frameworks)</li> 
   <li>Python (Django)</li> 
