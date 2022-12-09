@@ -16,12 +16,11 @@
 </div>
 
 
-- 👀 I’m interested in :
-  - Python ( Django, Pandas, Numpy , matplotlib) 
-  -  C  
-  -  JavaScript(Vue.JS)
+- 👀 Mostly experiencie with :
+  - JavaScript (Vue and React frameworks) 
+  - Python (Django)
   -  NodeJS 
-  -  CSS(&Bootstrap) 
+  -  CSS
   -  HTML...!
 - ✨ You can check below some of my public repos.✨
 - 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com
