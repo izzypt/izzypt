@@ -23,8 +23,6 @@
   <li>NodeJS </li> 
   <li>CSS</li> 
   <li>HTML...!</li> 
-<li> ✨ You can check below some of my public repos.✨<li>
-    <li> 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</li>
   </ul>
     </div>
     <br>
@@ -48,6 +46,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<li> ✨ You can check below some of my public repos.✨<li>
+<li> 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</li>
+
 
 <!---
 izzypt/izzypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
