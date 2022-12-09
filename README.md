@@ -16,16 +16,11 @@
 </div>
 <br>
 <div align="center">
-  <ul style="list-style: none;">
-    <li>👀 Mostly experiencie with :</li>
-    <li> JavaScript (Vue and React frameworks)</li> 
-  <li>Python (Django)</li> 
-  <li>NodeJS </li> 
-  <li>CSS</li> 
-  <li>HTML...!</li> 
-  </ul>
-    </div>
-    <br>
+ <p>✨ You can check below some of my public repos.✨</p>
+</div>
+<div align="center">
+  <p>📫 You can contact me at smmbonvalot@gmail.com</p>
+</div>
 
 <div align="center">
   
@@ -46,13 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br>
-<div align="center">
- <p>✨ You can check below some of my public repos.✨</p>
-</div>
-<div align="center">
-  <p>📫 You can contact me at smmbonvalot@gmail.com</p>
-</div>
+
 
 <!---
 izzypt/izzypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
