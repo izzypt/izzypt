@@ -36,6 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
 </div>
