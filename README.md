@@ -36,8 +36,11 @@
 </div>
 <br>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+</div>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=izzypt&show_icons=true&theme=radical" />
