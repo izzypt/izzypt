@@ -23,8 +23,8 @@
   <li>NodeJS </li> 
   <li>CSS</li> 
   <li>HTML...!</li> 
-- ✨ You can check below some of my public repos.✨
-- 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com
+<li> ✨ You can check below some of my public repos.✨<li>
+    <li> 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</li>
   </ul>
     </div>
 <div align="center">
