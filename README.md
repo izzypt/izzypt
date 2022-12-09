@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Simão </h1> 
+<h1 align="center"> 👋 Hello </h1> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
