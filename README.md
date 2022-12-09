@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+<div align="center">
 - 👀 Mostly experiencie with :
   - JavaScript (Vue and React frameworks) 
   - Python (Django)
@@ -24,7 +24,7 @@
   -  HTML...!
 - ✨ You can check below some of my public repos.✨
 - 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com
-
+</div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
