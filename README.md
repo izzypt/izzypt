@@ -47,9 +47,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<li> ✨ You can check below some of my public repos.✨<li>
-<li> 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com</li>
-
+<div align="center">
+ ✨ You can check below some of my public repos.✨
+</div>
+<div align="center">
+ 📫 How to reach me ... you can send me an e-mail to smmbonvalot@gmail.com
+</div>
 
 <!---
 izzypt/izzypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
