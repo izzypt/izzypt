@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+- My name is Simao
 - 👀 I’m interested in :
   - Python ( Django, Pandas, Numpy , matplotlib) 
   -  C  
