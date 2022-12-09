@@ -1,10 +1,8 @@
+<h1> 👋 Hi, I’m Simão </h1> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
 
-
-
-- 👋 Hi, I’m Simão
 - 👀 I’m interested in :
   - Python ( Django, Pandas, Numpy , matplotlib) 
   -  C  
