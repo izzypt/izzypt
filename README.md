@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to my hub 👋 </h1> 
+<h1 align="center"> 👋 Welcome to my hub </h1> 
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
