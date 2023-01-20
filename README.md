@@ -30,7 +30,7 @@
 
 <div align="center">
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izzypt&theme=react&line_height=40&hide=css"/> </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzypt&hide=jupyter%20notebook)
 
 </div>
 
