@@ -17,9 +17,9 @@
 <br>
 
 <div align="center">
- <p> :house_with_garden: I-am Simao from Lisbon, Portugal  </p>
+ <p> :house_with_garden: I-am Simao from Lisbon, Portugal. </p>
  <p> :mortar_board: I have worked as a full stack developer and a student at 42 Lisbon. </p>
- <p>✨ You can check below some of my public repos.✨</p>
+ <p>✨ You can check below some of my public repos. </p>
 </div>
 <div align="center">
   <p>📫 You can contact me at smmbonvalot@gmail.com</p>
