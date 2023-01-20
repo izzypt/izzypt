@@ -21,12 +21,6 @@
   
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-</div>
-
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,6 +31,12 @@
   <a href="https://twitter.com/smmbonvalot">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>  
+
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
 
 <!--<div align="center">
