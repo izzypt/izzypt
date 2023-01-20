@@ -18,7 +18,7 @@
 
 <div align="center">
  <p> :house_with_garden: Lisbon, Portugal. </p>
- <p> :mortar_board: I have worked as a full stack developer and a student at 42 Lisbon. </p>
+ <p> :mortar_board: Web full stack developer and a student at 42 Lisbon. </p>
  <p>✨ You can check below some of my public repos. </p>
 </div>
 <div align="center">
