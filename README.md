@@ -1,4 +1,8 @@
 <h1 align="center"> 👋 Welcome to my hub </h1> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -10,9 +14,6 @@
   <a href="https://twitter.com/smmbonvalot">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
