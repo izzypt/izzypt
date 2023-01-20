@@ -15,6 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzypt&hide=jupyter%20notebook)
+</div>
+
 <div align="center">
  <p>✨ You can check below some of my public repos.✨</p>
 </div>
@@ -26,12 +31,6 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izzypt&theme=dark&background=000000)](https://git.io/streak-stats)
   
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzypt&hide=jupyter%20notebook)
-
 </div>
 
 <!--<div align="center">
