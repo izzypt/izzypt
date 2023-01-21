@@ -6,7 +6,7 @@
 
 <div align="center">
  <p> :house_with_garden: Lisbon, Portugal. </p>
- <p> :mortar_board: Web full stack developer and a student @ 42 Lisbon. </p>
+ <p> :mortar_board: Full stack developer and a student @ 42 Lisbon. </p>
  <p>✨ You can check below some of my public repos. </p>
 </div>
 <div align="center">
@@ -17,10 +17,7 @@
 
 <div align="center">
   
-  
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=izzypt&theme=dark&hide=jupyter%20notebook,css,html)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzypt&theme=dracula&hide=jupyter%20notebook,css,html)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=izzypt&theme=dracula&hide=jupyter%20notebook,css,html)
   
 </div>
 
