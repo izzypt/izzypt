@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=izzypt&theme=dracula&hide=jupyter%20notebook,css,html)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=izzypt&theme=dracula&hide=jupyter%20notebook,css,html,roff)
   
 </div>
 
