@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to my hub </h1> 
+<h1 align="center"> 👋 Welcome </h1> 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=izzypt&style=flat-square&color=blue" alt=""/>
 </div>
