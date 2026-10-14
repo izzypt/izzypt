@@ -6,7 +6,6 @@
 
 <div align="center">
  <p> :house_with_garden: Lisbon, Portugal. </p>
- <p> :mortar_board: Developer and a life time student </p>
  <p>✨ You can check below some of my public repos. </p>
 </div>
 <div align="center">
