@@ -8,9 +8,6 @@
  <p> :house_with_garden: Lisbon, Portugal. </p>
  <p>✨ You can check below some of my public repos. </p>
 </div>
-<div align="center">
-  <p>📫 You can contact me at smmbonvalot@gmail.com</p>
-</div>
 
 
 
